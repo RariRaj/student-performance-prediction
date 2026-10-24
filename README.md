@@ -275,6 +275,10 @@ entirely without assistance.
 I am responsible for reviewing the submitted code and understanding
 its behaviour and limitations.
 
+## Live Demo
+
+[Try the Student Performance Prediction app](https://rari-student-performance.streamlit.app/)
+
 ## External resources
 
 - Kaggle dataset:
