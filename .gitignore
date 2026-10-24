@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.vscode/
+*.joblib
+*.pkl
+
+# Keep downloaded data local; document its source in README.
+data/raw/*
+!data/raw/.gitkeep
