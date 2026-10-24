@@ -1,0 +1,23 @@
+{
+  "model_name": "Logistic Regression",
+  "feature_columns": [
+    "Hours_Studied",
+    "Attendance",
+    "Previous_Scores",
+    "Sleep_Hours",
+    "Tutoring_Sessions",
+    "Access_to_Resources"
+  ],
+  "class_labels": {
+    "0": "Pass",
+    "1": "Fail"
+  },
+  "positive_class": 1,
+  "pass_threshold": 70,
+  "study_hours_unit": "hours per week",
+  "selection_metric": "training cross-validation macro F1",
+  "best_parameters": {
+    "classifier__C": 10.0
+  },
+  "sklearn_version": "1.9.1"
+}

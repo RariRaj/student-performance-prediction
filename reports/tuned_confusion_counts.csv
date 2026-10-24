@@ -1,0 +1,3 @@
+Model,True negatives,False positives,False negatives,True positives
+Logistic Regression,257,68,47,950
+KNN,226,99,33,964
