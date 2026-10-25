@@ -1,8 +1,5 @@
 # Student Performance Prediction
 
-A binary classification demonstration developed for the Verveox
-AI/ML Trainee assessment.
-
 The project compares Logistic Regression and K-Nearest Neighbors
 (KNN) to predict a derived Pass/Fail result from study-related and
 academic indicators. A Streamlit application loads the selected
@@ -264,16 +261,11 @@ different student populations.
 
 ## AI assistance and personal contribution
 
-ChatGPT assisted with project planning, code drafts, explanations
-of machine-learning concepts, troubleshooting, and documentation.
+I developed this project with AI assistance, taking responsibility for its implementation, execution, evaluation, and deployment. My contributions included assembling the workflow, reviewing the results, testing the prediction interface, and resolving issues during development.
 
-I used this assistance to assemble and run the project locally,
-review outputs, and test the prediction interface. The implementation
-contains AI-assisted code and is not claimed to have been written
-entirely without assistance.
+I used ChatGPT to support project planning, draft portions of the code and documentation, clarify machine-learning concepts, and assist with troubleshooting.
 
-I am responsible for reviewing the submitted code and understanding
-its behaviour and limitations.
+The project includes AI-assisted code. I reviewed and integrated these suggestions and take responsibility for the submitted work, its interpretation, and its limitations.
 
 ## Live Demo
 
